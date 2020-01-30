@@ -1,4 +1,4 @@
-Write a program that uses input to prompt a user for their name and then welcomes them. 2. Note that input will pop up a dialog box. Enter Sarah in the pop-up box when you are prompted so your output will match the desired output.
+2.1 Write a program that uses input to prompt a user for their name and then welcomes them. 2. Note that input will pop up a dialog box. Enter Sarah in the pop-up box when you are prompted so your output will match the desired output.
 
 inpu = input("Enter your name")
 print("Hello",inpu)
